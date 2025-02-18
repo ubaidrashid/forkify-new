@@ -48,7 +48,7 @@ nav {
     display: flex;
     justify-content: space-around;
     height: 100%;
-    /* width: 80%; */
+     width: 80%;
     align-items: center;
 }
 
